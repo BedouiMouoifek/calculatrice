@@ -1,3 +1,5 @@
+//Made by Guillaume Escande
+
 package calculette;
 
 import static org.junit.Assert.*;
